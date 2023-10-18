@@ -1,0 +1,39 @@
+.box {
+  height: 30vh;
+  width: 30vw;
+  /* padding: 10rem 2rem; */
+  /* padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 1rem;
+  padding-top: 1rem; */
+  background-color: black;
+}
+.inner {
+  width: 15vw;
+  height: 15vh;
+  background-color: white;
+}
+
+.japan {
+  width: 60vw;
+  height: 50vh;
+  margin-top: 10rem;
+  margin-left: 15rem;
+  background-color: #fff;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.red {
+  width: 150px;
+  height: 150px;
+  border-radius: 1000rem;
+  background-color: red;
+}
+/* colors  */
+.color {
+  width: 50vw;
+  height: 50vh;
+  background-color: hsla(300, 100%, 50%, 0.646);
+}
